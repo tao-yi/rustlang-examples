@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "rust-and-docker",
+  "some_bin",
+  "some_lib",
+  "default-example",
+]
