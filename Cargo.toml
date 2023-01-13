@@ -5,4 +5,5 @@ members = [
   "some_bin",
   "some_lib",
   "default-example",
+  "macro_examples",
 ]
