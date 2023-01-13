@@ -8,4 +8,5 @@ members = [
   "macro_examples",
   "closure_examples",
   "smart_pointers",
+  "threads",
 ]
