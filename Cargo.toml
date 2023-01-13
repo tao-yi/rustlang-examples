@@ -6,4 +6,5 @@ members = [
   "some_lib",
   "default-example",
   "macro_examples",
+  "closure_examples",
 ]
