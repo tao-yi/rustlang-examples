@@ -111,6 +111,10 @@ name = "rust-and-docker"
 version = "0.1.0"
 
 [[package]]
+name = "smart_pointers"
+version = "0.1.0"
+
+[[package]]
 name = "some_bin"
 version = "0.1.0"
 dependencies = [

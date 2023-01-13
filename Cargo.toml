@@ -7,4 +7,5 @@ members = [
   "default-example",
   "macro_examples",
   "closure_examples",
+  "smart_pointers",
 ]
